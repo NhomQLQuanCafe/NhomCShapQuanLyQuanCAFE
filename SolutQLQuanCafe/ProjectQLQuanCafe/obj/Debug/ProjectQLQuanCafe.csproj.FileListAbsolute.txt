@@ -1,0 +1,43 @@
+E:\project\QuanLyQuanCafe\QuanLyQuanCafe\SolutQLQuanCafe\ProjectQLQuanCafe\bin\Debug\ProjectQLQuanCafe.exe.config
+E:\project\QuanLyQuanCafe\QuanLyQuanCafe\SolutQLQuanCafe\ProjectQLQuanCafe\bin\Debug\ProjectQLQuanCafe.exe
+E:\project\QuanLyQuanCafe\QuanLyQuanCafe\SolutQLQuanCafe\ProjectQLQuanCafe\bin\Debug\ProjectQLQuanCafe.pdb
+E:\project\QuanLyQuanCafe\QuanLyQuanCafe\SolutQLQuanCafe\ProjectQLQuanCafe\obj\Debug\ProjectQLQuanCafe.csprojResolveAssemblyReference.cache
+E:\project\QuanLyQuanCafe\QuanLyQuanCafe\SolutQLQuanCafe\ProjectQLQuanCafe\obj\Debug\ProjectQLQuanCafe.fLogin.resources
+E:\project\QuanLyQuanCafe\QuanLyQuanCafe\SolutQLQuanCafe\ProjectQLQuanCafe\obj\Debug\ProjectQLQuanCafe.Properties.Resources.resources
+E:\project\QuanLyQuanCafe\QuanLyQuanCafe\SolutQLQuanCafe\ProjectQLQuanCafe\obj\Debug\ProjectQLQuanCafe.csproj.GenerateResource.cache
+E:\project\QuanLyQuanCafe\QuanLyQuanCafe\SolutQLQuanCafe\ProjectQLQuanCafe\obj\Debug\ProjectQLQuanCafe.csproj.CoreCompileInputs.cache
+E:\project\QuanLyQuanCafe\QuanLyQuanCafe\SolutQLQuanCafe\ProjectQLQuanCafe\obj\Debug\ProjectQLQuanCafe.exe
+E:\project\QuanLyQuanCafe\QuanLyQuanCafe\SolutQLQuanCafe\ProjectQLQuanCafe\obj\Debug\ProjectQLQuanCafe.pdb
+D:\Nam 3\C#\TeamC#\QuanLyQuanCafe\SolutQLQuanCafe\ProjectQLQuanCafe\bin\Debug\ProjectQLQuanCafe.exe.config
+D:\Nam 3\C#\TeamC#\QuanLyQuanCafe\SolutQLQuanCafe\ProjectQLQuanCafe\obj\Debug\ProjectQLQuanCafe.exe
+D:\Nam 3\C#\TeamC#\QuanLyQuanCafe\SolutQLQuanCafe\ProjectQLQuanCafe\obj\Debug\ProjectQLQuanCafe.pdb
+D:\Nam 3\C#\TeamC#\QuanLyQuanCafe\SolutQLQuanCafe\ProjectQLQuanCafe\bin\Debug\ProjectQLQuanCafe.exe
+D:\Nam 3\C#\TeamC#\QuanLyQuanCafe\SolutQLQuanCafe\ProjectQLQuanCafe\bin\Debug\ProjectQLQuanCafe.pdb
+D:\Nam 3\C#\TeamC#\QuanLyQuanCafe\SolutQLQuanCafe\ProjectQLQuanCafe\obj\Debug\ProjectQLQuanCafe.csprojResolveAssemblyReference.cache
+D:\Nam 3\C#\TeamC#\QuanLyQuanCafe\SolutQLQuanCafe\ProjectQLQuanCafe\obj\Debug\ProjectQLQuanCafe.fLogin.resources
+D:\Nam 3\C#\TeamC#\QuanLyQuanCafe\SolutQLQuanCafe\ProjectQLQuanCafe\obj\Debug\ProjectQLQuanCafe.Properties.Resources.resources
+D:\Nam 3\C#\TeamC#\QuanLyQuanCafe\SolutQLQuanCafe\ProjectQLQuanCafe\obj\Debug\ProjectQLQuanCafe.csproj.GenerateResource.Cache
+<<<<<<< HEAD
+C:\Users\admin\Documents\GitHub\QuanLyQuanCafe\SolutQLQuanCafe\ProjectQLQuanCafe\bin\Debug\ProjectQLQuanCafe.exe.config
+C:\Users\admin\Documents\GitHub\QuanLyQuanCafe\SolutQLQuanCafe\ProjectQLQuanCafe\bin\Debug\ProjectQLQuanCafe.exe
+C:\Users\admin\Documents\GitHub\QuanLyQuanCafe\SolutQLQuanCafe\ProjectQLQuanCafe\bin\Debug\ProjectQLQuanCafe.pdb
+C:\Users\admin\Documents\GitHub\QuanLyQuanCafe\SolutQLQuanCafe\ProjectQLQuanCafe\obj\Debug\ProjectQLQuanCafe.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\GitHub\QuanLyQuanCafe\SolutQLQuanCafe\ProjectQLQuanCafe\obj\Debug\ProjectQLQuanCafe.fAccount.resources
+C:\Users\admin\Documents\GitHub\QuanLyQuanCafe\SolutQLQuanCafe\ProjectQLQuanCafe\obj\Debug\ProjectQLQuanCafe.fAdmin.resources
+C:\Users\admin\Documents\GitHub\QuanLyQuanCafe\SolutQLQuanCafe\ProjectQLQuanCafe\obj\Debug\ProjectQLQuanCafe.fLogin.resources
+C:\Users\admin\Documents\GitHub\QuanLyQuanCafe\SolutQLQuanCafe\ProjectQLQuanCafe\obj\Debug\ProjectQLQuanCafe.fTableManager.resources
+C:\Users\admin\Documents\GitHub\QuanLyQuanCafe\SolutQLQuanCafe\ProjectQLQuanCafe\obj\Debug\ProjectQLQuanCafe.Properties.Resources.resources
+C:\Users\admin\Documents\GitHub\QuanLyQuanCafe\SolutQLQuanCafe\ProjectQLQuanCafe\obj\Debug\ProjectQLQuanCafe.csproj.GenerateResource.Cache
+C:\Users\admin\Documents\GitHub\QuanLyQuanCafe\SolutQLQuanCafe\ProjectQLQuanCafe\obj\Debug\ProjectQLQuanCafe.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\GitHub\QuanLyQuanCafe\SolutQLQuanCafe\ProjectQLQuanCafe\obj\Debug\ProjectQLQuanCafe.exe
+C:\Users\admin\Documents\GitHub\QuanLyQuanCafe\SolutQLQuanCafe\ProjectQLQuanCafe\obj\Debug\ProjectQLQuanCafe.pdb
+=======
+E:\project\QuanLyQuanCafe\QuanLyQuanCafe\SolutQLQuanCafe\ProjectQLQuanCafe\obj\Debug\ProjectQLQuanCafe.fAdmin.resources
+D:\Nam 3\C#\TeamC#\QuanLyQuanCafe\SolutQLQuanCafe\ProjectQLQuanCafe\obj\Debug\ProjectQLQuanCafe.fAdmin.resources
+D:\Nam 3\C#\TeamC#\QuanLyQuanCafe\SolutQLQuanCafe\ProjectQLQuanCafe\obj\Debug\ProjectQLQuanCafe.fQuanLyDatMon.resources
+E:\project\QuanLyQuanCafe\QuanLyQuanCafe\SolutQLQuanCafe\ProjectQLQuanCafe\obj\Debug\ProjectQLQuanCafe.fQuanLyDatMon.resources
+>>>>>>> 58547a1cff6bf344e1a58f1af607aecd18d634dc
+C:\Users\admin\Documents\GitHub\QuanLyQuanCafe\SolutQLQuanCafe\ProjectQLQuanCafe\obj\Debug\ProjectQLQuanCafe.fQuanLyDatMon.resources
+E:\project\QuanLyQuanCafe\QuanLyQuanCafe\SolutQLQuanCafe\ProjectQLQuanCafe\obj\Debug\ProjectQLQuanCafe.fAccount.resources
+>>>>>>> 8d96e4b9e2135057d61882553c8b6df31b24ad2b
+D:\Nam 3\C#\TeamC#\QuanLyQuanCafe\SolutQLQuanCafe\ProjectQLQuanCafe\obj\Debug\ProjectQLQuanCafe.fAccount.resources
